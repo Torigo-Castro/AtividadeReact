@@ -8,7 +8,7 @@ import UsuarioEntrada from './UsuarioEntrada';
 function App() {
   return (
    <div> 
-     <h3>Atividade React</h3>
+     <h3>Atividade 3 React - Tecnologias Front End</h3>
      <UsuarioEntrada />
     </div>
   );
