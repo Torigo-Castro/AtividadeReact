@@ -9,7 +9,6 @@ function UsuarioEntrada(){
         const[texto,settexto] = useState("");
 
         function mudatexto(frase){
-            console.log(frase)
             settexto(frase)
         }
 
